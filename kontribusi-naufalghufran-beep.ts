@@ -1,0 +1,1 @@
+console.log("Halo, ini kontribusi Naufal pada proyek TRPL.");
